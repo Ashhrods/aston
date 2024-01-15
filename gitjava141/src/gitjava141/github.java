@@ -10,7 +10,7 @@ public class github {
 	void display()
 	
 	{
-		System.out.println("branch b2");
+		System.out.println("branch  b2");
 		
 	}
 
