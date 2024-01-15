@@ -6,5 +6,12 @@ public class github {
 		// TODO Auto-generated method stub
 		System.out.println("hellow world");
 	}
+	
+	void display()
+	
+	{
+		System.out.println("branch  b2");
+		
+	}
 
 }
